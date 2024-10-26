@@ -49,6 +49,7 @@ header p {
     background-color: #007BFF;
     color: white;
     padding: 10px 20px;
+    margin: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
     font-size: 1.1rem;
@@ -120,6 +121,7 @@ nav ul li a:hover {
 
 .service p {
     font-size: 1.1rem;
+    margin-bottom: 20px;
 }
 
 /* Contact Section */
