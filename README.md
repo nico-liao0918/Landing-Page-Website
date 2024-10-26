@@ -13,7 +13,7 @@ Link to Resume Page
 ## Access to the Landing Page
 You can use the application directly by opening the index.html file in a web browser.
 
-You may also access it via GitHub Pages [here](). (it will be added to "here" when I finished the coding.)
+You may also access it via GitHub Pages [here](https://nico-liao0918.github.io/Landing-Page-Website/).
 
 ## Technologies Used
 HTML: For the structure of the web page.
